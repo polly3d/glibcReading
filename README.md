@@ -10,8 +10,11 @@
 * [如何阅读glibc库](https://github.com/polly3d/glibcReading/blob/master/howto.md)
 * [glibc库概述](https://github.com/polly3d/glibcReading/blob/master/manual.md)
 
+* [c语言编程练习](https://github.com/polly3d/glibcReading/blob/master/exercise.md)
 
-
+* 如何辨识c语言中的复杂变量定义，如`void (*fun(int,void (*func)(int,int)))(int,int)`;
+* 熟悉typedef对程序的作用：可移值性、结构体、函数
+* 熟悉数组及指针
 
 参考网站：
 * http://www.cnblogs.com/kenshincui/p/3840294.html
